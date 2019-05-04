@@ -50,4 +50,3 @@ Every generic component with all its states should be documented in the storyboo
 Humans responsible for any inconvenience caused by this software:
 
 Magdalena Paluch: 1magdalenapaluch@gmail.com
-Tomáš Uhrík: tomas@byallmeans.work
